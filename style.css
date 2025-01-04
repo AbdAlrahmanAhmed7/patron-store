@@ -59,7 +59,7 @@ header .right-contant i:hover{
     transform: translateY(6px);
 }
 .section{
-    background-image: linear-gradient(#353535c0,#c5939355), url(poster_2.png);
+    background-image: linear-gradient(#353535c0,#c5939355), url(image/poster_2.png);
     background-size: cover;
     height: 800px;
     display: flex;
